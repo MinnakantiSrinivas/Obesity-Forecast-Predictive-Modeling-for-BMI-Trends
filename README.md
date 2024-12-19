@@ -56,3 +56,6 @@ The dataset includes variables such as:
 ## **Conclusion**
 Our findings emphasize the importance of considering familial and behavioral factors in obesity prediction. The robust performance of the Bootstrap Forest model highlights its potential for real-world applications in healthcare, enabling proactive measures to combat obesity.
 
+**The `ObesityDataSet_raw_and_data_sin.jmp` file is located in the this folder along with PPT.   
+Download and open it using JMP software to explore the dataset and replicate results.**
+
