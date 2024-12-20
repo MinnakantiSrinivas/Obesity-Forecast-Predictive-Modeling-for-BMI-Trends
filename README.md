@@ -1,7 +1,5 @@
-# Obesity-Forecast-Predictive-Modeling-for-BMI-Trends
-Using SAS JMP
-
 # Obesity Forecast: Predictive Modeling for BMI Trends
+Using SAS JMP
 
 ## **Overview**
 This project focuses on predicting Body Mass Index (BMI) trends using advanced predictive modeling techniques. By analyzing factors such as family history, lifestyle choices, and dietary habits, the project identifies individuals at risk of obesity. The ultimate goal is to inform targeted interventions and promote personalized healthcare strategies.
